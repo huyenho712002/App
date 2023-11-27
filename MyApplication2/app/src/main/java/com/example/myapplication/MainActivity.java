@@ -14,7 +14,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.example.myapplication.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-
+//commit1
     private ActivityMainBinding binding;
     TextView textview1;
     @Override
