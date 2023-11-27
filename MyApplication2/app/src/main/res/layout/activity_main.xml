@@ -33,7 +33,7 @@
 
     <TextView
         android:id="@+id/textview1"
-        android:text="chào"
+        android:text="chào123"
         android:layout_width="200dp"
         android:layout_height="100dp"
         tools:ignore="MissingConstraints" />
